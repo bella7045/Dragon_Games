@@ -176,7 +176,23 @@ function Footer(){
       paddingVertical: 8,
       borderRadius: 4,
       marginBottom: 15, 
-    }
-   })
+    },
+    button: {
+      backgroudcolor: '#004080',
+      paddingVertical: 12,
+      borderRadius: 6,
+      alignItems: 'conter',
+    },
+    button: {
+      color: 'white',
+      fontWeight: 'bold',
+      fontSize: 16
+    },
+    footer: {
+      backgroudcolor: '#00264d',
+      padding: 15,
+      alignItems: 'center'
+    },
+   });
 
 
