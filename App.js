@@ -19,6 +19,7 @@ export default function App(){
   );   
 }
 
+//Comentario aleatorio
 function Header({ pagina, setPagina }) {
   return (       
     <View ste={styles.header}>
@@ -122,7 +123,6 @@ function Footer(){
       </View>
     );
    }
-  
    const styles = StylesSheet.create({
     container:{
       flex: 1,
